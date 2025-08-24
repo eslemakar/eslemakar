@@ -21,11 +21,6 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer wi
 - Frontend-based open-source projects  
 - Creative tools, educational platforms, or interactive apps  
 
-💬 Ask me about:  
-- Learning frontend from scratch  
-- Combining creativity, language, and code  
-- Building clean and modern React applications  
-
 📫 How to reach me:  
 - Email: [akareslemelif@gmail.com]  
  
