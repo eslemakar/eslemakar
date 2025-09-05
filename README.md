@@ -1,11 +1,11 @@
 𖣂❦𓏲꩜𓈒✮❃𖥧𐂂𖣠
 ### Hi! Meet me 👋 I'm Eslem
 
-Welcome to my GitHub profile! I'm a passionate learner and aspiring developer with a strong interest in web technologies, languages, and creativity. 🚀
+Welcome to my GitHub profile! I'm a passionate learner and aspiring developer with a strong interest in web technologies, languages, and creativity. 
 
 ---
 
-🔭 I’m currently working on:  
+ I’m currently working on:  
 - Developing various personal and academic projects using **JavaScript**, **React**, **Redux**, and other modern tools  
 - Exploring different areas of software development, while currently focusing on the **frontend stage**  
 - Practicing responsive design, clean code, and component-based architecture  
@@ -30,4 +30,4 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring developer wi
 
 ---
 
-Thanks for visiting my profile! 😊  
+Thanks for visiting my profile! 
